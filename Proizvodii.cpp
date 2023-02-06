@@ -1,6 +1,6 @@
 /*Napisati program u kome se citaju podaci o proizvodima u jednoj prodavnici auto-djelova iz postojece
 datoteke proizvodi.txt i kreira niz struktura tipa proizvod ( naziv, proizvodac, cjena, kolicina),a zatim
-štampa:
+Å¡tampa:
 - ukupan broj proizvoda u datoteci,
 - ukupna vrijednost svih proizvoda u prodavnici,
 - spisak proizvoda cija je kolicina 0,
@@ -64,16 +64,5 @@ int main(){
 		cout<<endl;
 	}
 	return 0;
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 }
