@@ -1,0 +1,4 @@
+Amortizeri AUDI 700 0
+Gume FIAT 250 3
+Ulje TESLA 300 1
+Kugle SKODA 80 4
